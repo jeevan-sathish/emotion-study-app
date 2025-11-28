@@ -26,7 +26,7 @@ Created with React + Tailwind CSS with modern gradients, animations, and smooth 
 
 | Preview | Description |
 |--------|-------------|
-| ![Image 1](.//assets/r1.png) | Home screen UI |
+| ![Image 1](./assests/r1.png) | Home screen UI |
 | ![Image 2](./assets/r2.png) | Emotion selection buttons |
 | ![Image 3](./assets/r3.png) | AI explanation section |
 
